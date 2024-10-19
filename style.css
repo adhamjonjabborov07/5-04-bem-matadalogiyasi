@@ -16,6 +16,8 @@ header {
     align-items: center;
     justify-content: space-around;
     gap: 130px;
+    position: sticky;
+    z-index: 1;
 }
 
 
